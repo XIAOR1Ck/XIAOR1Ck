@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @XIAOR1Ck
-- 👀 I’m interested in many things though only for a short time XP
-- 🌱 I’m currently learning Web Developement and Languages
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me TWT:XIAO_R1CK
-                      IG:acehh.y0ung
+- 👋 Hi
+- 
                      
 
 <!---
