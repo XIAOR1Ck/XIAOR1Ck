@@ -19,6 +19,7 @@
 - [CDM Revamped](https://github.com/XIAOR1Ck/cdm-revamped) Get Stats and Schedule for Call Of Duty:Mobile Major (CDM) event China.
 - [cdm-worker](https://github.com/XIAOR1Ck/cdm-worker) Cloudflare Worker for forwarding API request to CDM official API endpoint to bypass CORS.
 - [pern-todo](https://github.com/XIAOR1Ck/pern-todo) A simple ToDo app using the PERN (Postgres ExpressJS ReactJS NodeJS) stack
+- [cdm-react](https://github.com/XIAOR1Ck/cdm-react) CDM stats website in React + Tailwind
 
 ### Contact Me:
 [sureshach.off@gmail.com](mailto:sureshach.off@gmail.com)
